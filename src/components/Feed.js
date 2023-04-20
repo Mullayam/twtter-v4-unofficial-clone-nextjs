@@ -2,6 +2,7 @@ import React from "react";
 import Input from "./Input";
 import { SparklesIcon } from "@heroicons/react/24/outline";
 import Post from "./Post";
+ 
 
 export default function () {
   const posts = [
